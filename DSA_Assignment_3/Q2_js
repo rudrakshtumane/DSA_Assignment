@@ -14,7 +14,7 @@ function countFrequencies(arr) {
     });
 
     return frequency;
-}
+};
 
 
 const frequencies = countFrequencies(arr);
